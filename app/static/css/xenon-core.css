@@ -2222,7 +2222,7 @@ footer.main-footer:after {
 }
 
 footer.main-footer .footer-text {
-    float: left
+    float: none
 }
 
 footer.main-footer .go-up {
